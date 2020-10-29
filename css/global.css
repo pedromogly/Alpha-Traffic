@@ -122,7 +122,6 @@ body {
 
 .anim-title {
     position: relative;
-    z-index: 99;
     animation: openAnimation 3s;
     animation-delay: 2s;
     animation-fill-mode: backwards;
